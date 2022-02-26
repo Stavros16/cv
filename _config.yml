@@ -1,7 +1,13 @@
 # Site Settings
-title: Σταύρος Μαραγγοτίδης 
+<<<<<<< HEAD
+title: Jane Doe
 url: 'Stavros16.github.io'
 baseurl: '' #change it according to your repository name
+=======
+title: Jane Doe
+url: ''
+baseurl: '/cv' #change it according to your repository name
+>>>>>>> 7894919a72e575a3d6f021fd93d1d6298cdf125b
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
