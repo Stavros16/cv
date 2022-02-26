@@ -1,6 +1,5 @@
 # Site Settings
-<<<<<<< HEAD
-title: Jane Doe
+title: Curriculum Vitae
 url: 'Stavros16.github.io'
 baseurl: '' #change it according to your repository name
 =======
@@ -19,8 +18,8 @@ baseurl: '/cv' #change it according to your repository name
 style: style-kz
 
 #Profile information
-name: Ayda Doe
-tagline: Math major at My College
+name: Σταύρος Μαραγγοτίδης
+tagline: Φοιτητής Τμήματος Πληροφορικής Ιονίου Πανεπιστημίου
 pic: ayda.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'This is a simple cv website based on Jekyll. Fork it here <a href="https://github.com/RVerse-Tutorials/simple-cv">https://github.com/RVerse-Tutorials/simple-cv</a>. 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, 
@@ -28,11 +27,11 @@ when an unknown printer took a galley of type and scrambled it to make a type sp
 and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.'
 
 #sidebar links
-email: myemail@gmail.com
-phone: 206 123 4567
+email: p16mara@ionio.gr
+phone: 
 website: eeholmes.github.io/simple-cv/ #do not add http://
 linkedin: 
-github: eeholmes
+github: Stavros16
 twitter: 
 #Update all the sections by editing the files inside _data folder.
 
