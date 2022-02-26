@@ -1,9 +1,12 @@
 - skill:
-  name: R
+  name: Adobe Premiere Pro
   level: Advanced
 - skill:
   name: Python
+  level: Intermidiate
+- skill:
+  name: Photoshop
   level: Novice
 - skill:
-  name: First Aid
-  level: Basic First Aid, CPR
+  name: C,C++
+  level: Novice

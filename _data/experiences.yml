@@ -1,45 +1,41 @@
 - experience:
-  role: Teacher
-  time: Summers 2014-2017
-  company: School, Earth
-  details: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the 
-  into electronic typesetting, remaining essentially unchanged."
+  role: Videographer
+  time: Summers 2015-2016
+  company: Fotokinisi, Orestiada
+  details: "Video editing and shooting for weddings."
 - experience:
-  role: Data Entry
-  time: Summers 2017
-  company: Company, Earth
-  details: "I entered all the data."
+  role: IT support
+  time: 2021- Current
+  company: Fotokinisi, Orestiada
+  details: "Fixing network and computer problems."
 - experience:
-  role: Teacher
-  time: Summers 2014-2017
-  company: School, Mars
-  details: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the 
-  into electronic typesetting, remaining essentially unchanged."
+  role: Accounting Office Employee
+  time: 2018-2019
+  company: Acounting office,Corfu
+  details: "I entered data"
 - experience:
-  role: Data Entry
-  time: Summers 2017
-  company: Company, Venus
-  details: "I entered all the data."
+  role: Grocery Store Employee
+  time: Summer 2016-2017
+  company: Grocery store,Corfu
+  details: 
 - experience:
-  role: Teacher
-  time: Summers 2014-2017
-  company: School, Moon
-  details: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the 
-  into electronic typesetting, remaining essentially unchanged."
+  role:
+  time:
+  company:
+  details:
 - experience:
-  role: Data Entry
-  time: Summers 2017
-  company: Company, Pluto
-  details: "I entered all the data."
+  role:
+  time:
+  company:
+  details:
 - experience:
-  role: Teacher
-  time: Summers 2014-2017
-  company: School, Saturn
-  details: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the 
-  into electronic typesetting, remaining essentially unchanged."
+  role:
+  time:
+  company:
+  details:
 - experience:
-  role: Data Entry
-  time: Summers 2017
-  company: Company, Uranus
-  details: "I entered all the data."
+  role:
+  time:
+  company:
+  details:
 

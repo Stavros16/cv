@@ -2,11 +2,6 @@
 title: Curriculum Vitae
 url: 'Stavros16.github.io'
 baseurl: '' #change it according to your repository name
-=======
-title: Jane Doe
-url: ''
-baseurl: '/cv' #change it according to your repository name
->>>>>>> 7894919a72e575a3d6f021fd93d1d6298cdf125b
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
@@ -18,9 +13,9 @@ baseurl: '/cv' #change it according to your repository name
 style: style-kz
 
 #Profile information
-name: Σταύρος Μαραγγοτίδης
-tagline: Φοιτητής Τμήματος Πληροφορικής Ιονίου Πανεπιστημίου
-pic: ayda.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+name: Σταύρος Μαραγγοτίδης 
+tagline: Ionian University IT Student
+pic: me.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'This is a simple cv website based on Jekyll. Fork it here <a href="https://github.com/RVerse-Tutorials/simple-cv">https://github.com/RVerse-Tutorials/simple-cv</a>. 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, 
 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
@@ -29,7 +24,7 @@ and more recently with desktop publishing software like Aldus PageMaker includin
 #sidebar links
 email: p16mara@ionio.gr
 phone: 
-website: eeholmes.github.io/simple-cv/ #do not add http://
+website: stavros16.github.io/cv/ #do not add http://
 linkedin: 
 github: Stavros16
 twitter: 
